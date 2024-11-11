@@ -1,6 +1,6 @@
-Name: Charley Corneil
-Date: 11/11/2024
-live URL:
+Name: Charley Corneil  
+Date: 11/11/2024  
+live URL: https://in-info-web4.luddy.indianapolis.iu.edu/~chelcorn/homework%207/  
 Description:
 
 Purpose:
